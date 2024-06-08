@@ -12,7 +12,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
 
-How to Run
+How to Run <br/>
 Clone the Repository: git clone https://github.com/yourusername/flix
 Set Up Database: Import the SQL schema and data into your MySQL database.
 Configure Backend: Update PHP configuration files to connect to your MySQL database.
