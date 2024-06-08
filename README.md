@@ -8,7 +8,7 @@ Subscription Plans: Users can select from different subscription plans, includin
 Browsing and Search: Browse through various categories and use the search functionality to find favorite movies and shows.
 
 Technologies Used
-Frontend: HTML, CSS, JavaScript, Font Awesome for icons
+Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
 
